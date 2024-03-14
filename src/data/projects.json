@@ -1,0 +1,50 @@
+[
+    {
+      "title": "PCOD Detection & Analysis",
+      "imageSrc": "projects/pcod.jpg",
+      "description": "Created Data sets using Google Forms & Use different algorithms for detecting PCOD.",
+      "skills": ["HTML","Python3", "CSS", "Machine Learing"],
+      "demo": "https://sanjana271.github.io/PCOD/",
+      "source": "https://github.com/Sanjana271/PCOD"
+    },
+    {
+      "title": "React Router Page",
+      "imageSrc": "projects/router.png",
+      "description": "This is a project made to learn the React Routers and Context-Api by building an app.",
+      "skills": ["HTML", "Tailwind", "React", "API"],
+      "demo": "https://use-router-to-create-website.netlify.app/",
+      "source": "https://github.com/sanjana271/App_Router.git"
+    },
+    {
+      "title": "Google Keep Clone",
+      "imageSrc": "projects/keep.jpg",
+      "description": "Create, Update & Delete Note instantly & Implemented Media Queries for responsiveness.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://sanjana271.github.io/Google-Keep/",
+      "source": "https://github.com/Sanjana271/Google-Keep"
+    },
+    {
+      "title": "Password Generator",
+      "imageSrc": "projects/password.png",
+      "description": "This is a project which generates the customized password randomaly",
+      "skills": ["React", "HTML", "CSS","Javascript"],
+      "demo": "https://password-generator010.netlify.app/",
+      "source": "https://github.com/sanjana271/PASSWORDGENERATOR"
+    },
+    {
+      "title": "Spotify Clone",
+      "imageSrc": "projects/music.jpg",
+      "description": "This is spotify clone project with a Play, Pause & Forward functionality.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://sanjana271.github.io/Spotify-Clone/",
+      "source": "https://github.com/Sanjana271/Spotify-Clone"
+    },
+    {
+      "title": "Text to Speech Converter",
+      "imageSrc": "projects/sppech.jpg",
+      "description": "A Text to Speech Converter project converts written text into spoken audio output.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://sanjana271.github.io/Give-You-Voice/",
+      "source": "https://github.com/sanjana271/Give-You-Voice/tree/main"
+    }
+  ]

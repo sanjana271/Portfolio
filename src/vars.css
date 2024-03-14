@@ -1,0 +1,13 @@
+/*for css variables so if we want to change we can do it here and its for entire app*/
+
+
+:root{
+    --color-text: #fff;
+    --color-primary: #FFAA4C;
+    --color-secondary:#035397;
+    --color-dark: #5089C6;
+    --color-bg: #001E6C;
+
+    /*fonts*/
+    --font-roboto:"Roboto";
+}

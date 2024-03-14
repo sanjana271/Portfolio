@@ -1,0 +1,26 @@
+[
+    {
+      "major": "B-tech in Computer Science and Technology",
+      "college": "Usha Mittal Institute of Technology.",
+      "startDate": "2021",
+      "endDate": "Current",
+      "Percentage": "80%",
+      "imageSrc": "history/google.png"
+    },
+    {
+        "major": "Diploma in Civil Engineering",
+        "college": "Veermata Jijabai Technological Institute.",
+        "startDate": "2019",
+        "endDate": "2021",
+        "Percentage": "88.74%",
+        "imageSrc": "history/microsoft.png"
+      },
+      {
+        "major": "Higher Secondary",
+        "college": "New English School & jr.College Murbad",
+        "startDate": "2017",
+        "endDate": "2019",
+        "Percentage": "69.69%",
+        "imageSrc": "history/netflix.png"
+      }
+  ]
